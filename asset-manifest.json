@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/CountDown/static/js/main.9dc09f78.chunk.js",
+    "main.js.map": "/CountDown/static/js/main.9dc09f78.chunk.js.map",
+    "runtime-main.js": "/CountDown/static/js/runtime-main.947e005f.js",
+    "runtime-main.js.map": "/CountDown/static/js/runtime-main.947e005f.js.map",
+    "static/js/2.f7a1073b.chunk.js": "/CountDown/static/js/2.f7a1073b.chunk.js",
+    "static/js/2.f7a1073b.chunk.js.map": "/CountDown/static/js/2.f7a1073b.chunk.js.map",
+    "index.html": "/CountDown/index.html",
+    "precache-manifest.31cc1e5fdaa6c1c2a3d3d9755b454289.js": "/CountDown/precache-manifest.31cc1e5fdaa6c1c2a3d3d9755b454289.js",
+    "service-worker.js": "/CountDown/service-worker.js",
+    "static/media/bg-stars.svg": "/CountDown/static/media/bg-stars.3661648f.svg",
+    "static/media/icon-facebook.svg": "/CountDown/static/media/icon-facebook.33fc1888.svg",
+    "static/media/icon-instagram.svg": "/CountDown/static/media/icon-instagram.40c2e0b3.svg",
+    "static/media/icon-pinterest.svg": "/CountDown/static/media/icon-pinterest.67ee8378.svg",
+    "static/media/pattern-hills.svg": "/CountDown/static/media/pattern-hills.8fad4803.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.947e005f.js",
+    "static/js/2.f7a1073b.chunk.js",
+    "static/js/main.9dc09f78.chunk.js"
+  ]
+}
